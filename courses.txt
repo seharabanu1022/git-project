@@ -2,3 +2,5 @@ java
 sql
 aws
 python
+.net
+devops
