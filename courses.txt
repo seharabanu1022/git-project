@@ -4,5 +4,5 @@ aws
 python
 .net
 devops
-sending email alerts 
+sending email alerts to subscribers
 
